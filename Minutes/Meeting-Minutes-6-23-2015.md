@@ -72,7 +72,7 @@ It's for the company. Lucio puts a percentage of this service fee into Xinfab be
 * 6 month membership
   * pay 180 RMB/month but get 7th month free 
 * Members pay 200 RMB/workshop instead of 250 RMB
-* Members cannot use their membership and credits to make things for friends/acquaintances
+* Members cannot use their membership and credits to make things for friends/acquaintances (??? not really this is aplyed for residents/interns or aywone who got the credit for free "Eddited by Lucio")
 
 ### Machine Prices
 
@@ -80,7 +80,7 @@ If someone reserves a machine online and doesn't show up, they have to pay for t
 
 *3D printer:*
 * 2 RMB/gram
-  * no questions asked – you just used the machine. You need to know EVERYTHING.
+  * no questions asked – you just used the machine. You need to know EVERYTHING. (DIY)
 * 4 RMB/gram
   * can ask Sean questions about 3D printing
 * 10 RMB/gram
@@ -106,7 +106,7 @@ All staff (paid and unpaid) should be a maker.
 ### Staff Positions
 * Paid
   * Sean
-  * Lucio
+  * Lucio (not really "eddited by Lucio")
 * Volunteer
   * Eva
   * Simona
@@ -155,10 +155,10 @@ All staff (paid and unpaid) should be a maker.
 * Lemon: 
   * everyday that the space is open, 1 – 9PM 
 
-### Staff Benefits
-* Interns get 180 RMB monthly allowance
-* Staff get 180 RMB monthly allowance
-* Residents get 180 RMB monthly allowance
+### Staff Benefits (edited by Lucio)
+* Interns get 180 credits monthly allowance
+* Staff get 180 credits monthly allowance
+* Residents get 180 credits monthly allowance
 * Volunteers can apply for monthly allowance
   * decision made at staff meetings
 
