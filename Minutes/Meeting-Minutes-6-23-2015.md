@@ -4,18 +4,34 @@ Attendees: Lemon, Sean, Brenda, Mark, Danny, Linnah, Lucio, Eva
 *Lucio:*
 * discuss payment with Lemon (become paid staff)
 
+*Danny:*
+* build temporary website for XinFab
+
 *Eva:*
 * send website requirements to Danny and Berenda
 * schedule staff workshops (Lucio is leaving JULY 6th!!!!)
 
+*Berenda:*
+* find someone who can build our permanent website for us
+  * ask Xinchejian people, contractors, and friends 
+  
+*Mark:*
+* print out CNC instructions in English (within 2 weeks)
+* contact Spencer from Xinchejian
+  * Spencer is creating a wiki and is already writing instructions for the CNC
+ 
+*Lemon & Sean:*
+* translate Mark's CNC instructions
+
+*Linnah:*
+* investigate other business models
+
 *Unassigned:*
-
-
-Customer Handling:
-Want to minimize bureacracy but need some rules.
-Payment should not be cash-in-pocket
-
-All staff (paid and unpaid) should be a maker. 
+* reach out to Xinchejian and ask them about sponsorships
+* create content for Xinfab (pictures, workshops, written stuff)
+* manage members (follow up, keep track of their membership, their machines)
+* put meeting minutes on wiki
+* create a payment system better than our paper system (memberships, machine hours)
 
 ## The Cost of Running XinFab
 * 7K for rent
@@ -40,6 +56,13 @@ All staff (paid and unpaid) should be a maker.
 *Q:* When Lucio does a service, is it for the company or XinFab?
 It's for the company. Lucio puts a percentage of this service fee into Xinfab because he directly benefits from being a member and using the space/material/machines to do his service. 
 
+### Tracking Expenses and Profit
+* Sean presents information to Linnah
+  * Linnah helps in organizing part of it (generate reports).
+* Sean is staff which means he will be in charge of receiving payments during open hours
+* Need a system better than our paper system (memberships, machine hours)
+  * Mark puts it all on Excel
+
 Lucio: "I'm not using XinFab to fund my own interests."
 
 Lucio is willing to pay for the space until the end of 2015. 
@@ -48,47 +71,10 @@ Xinfab should not be a manufacturing company that builds products for other peop
 
 Mark: "We need to invest money in marketing people and finance people. We shouldn't be worried about our non-profit reputation.
 
-Needs:
-can someone reach out to Xinchejian, ask them about sponsorships?
-Grants?
-website
-Staff workshops?
-Need people to create content for Xinfab (pictures, workshops, written stuff)
-Need people to manage members (follow up, keep track of their membership, their machines)
-need someone to build price list
-need to put meeting minutes on wiki
-Lucio needs to discuss payment with Lemon (become paid staff)
-need open night for Xinfab
-
 Question:
 confusing line between Xinchejian and Xinfab?
 
-Keeping track of finance:
-Linnah & Sean
-set up a system
-Sean presents information to Linnah. Linnah helps in organizing part of it (generate reports).
-Sean is staff which means he will be in charge of receiving payments during open hours.
-
-Need a system better than our paper system (memberships, machine hours)
-Mark put it all on Excel. 
-
 Lucio – the last thing I want is for this place to be like a school
-
-Brenda – (1) workshops (2) service (3) sell products of 3D printing
-
-Mark – print out CNC instructions in English (within 2 weeks). Lemon & Sean can translate.
-→ need to contact Spencer from Xinchejian. He's creating a wiki. He's already writing instructions for the CNC. 
-
-Point person for website: Brenda
-ask Xinchejian people
-contractors
-friends
-
-Danny is in charge of temporary website. Will work with Lucio. 
-
-If someone reserves a machine online and doesn't show up, they have to pay for the time anyway. 
-
-Eva to send website requirements to Danny. 
 
 July 6h – Lucio is leaving for a month. 
 
@@ -104,6 +90,9 @@ July 6h – Lucio is leaving for a month.
 * Members cannot use their membership and credits to make things for friends/acquaintances
 
 ### Machine Prices
+
+If someone reserves a machine online and doesn't show up, they have to pay for the time anyway. 
+
 *3D printer:*
 * 2 RMB/gram
   * no questions asked – you just used the machine. You need to know EVERYTHING.
@@ -122,16 +111,13 @@ July 6h – Lucio is leaving for a month.
 
 “If you break it, you fix it.” Need to evaluate on a case-by-case basis (in case the thing was going to break anyway). 
 
-
-Hours;
-1 – 9 PM, everyday except Monday and Friday]
+### XinFab Hours
+* 1 - 9 PM
+* everyday except Monday and Friday
 
 Sean knows everything but CNC.
 Mark needs practice on CNC.
 
-Lucio is able to veto any decision (as our only stakeholder).
-Xinchejian:
-rules are implemented by the next staff meeting (weekly)
 
 Lucio wants to finish CNC by July 6th – this is also Laura's thesis so she needs to take ownership of it. 
 
@@ -140,6 +126,29 @@ investigate other business models
 
 
 ## XinFab Staff
+All staff (paid and unpaid) should be a maker. 
+
+### Staff Positions
+* Paid
+  * Sean
+  * Lucio
+* Volunteer
+  * Eva
+  * Simona
+  * Berenda
+  * Lemon
+* Intern
+  * Mark
+  * Linnah
+* Resident
+  * Laura
+  * Danny
+
+#### Resident Program
+* 20% time or 1 day a week (flexible) in exchange for free usage of space/tools?
+  * terms (allowance) are case-by-case
+* contract or trust system?
+
 ### Card Owners
 * Mark
 * Laura
@@ -178,21 +187,15 @@ investigate other business models
 * Volunteers can apply for monthly allowance
   * decision made at staff meetings
 
-Staff meetings:
-6:30 – 7:30 PM every Tuesday
+### Staff Meetings
+* every Tuesday, 18:30 - 19:30
+* decisions are made by voting
+  * Lucio is able to veto any decision as our only stakeholder
+  * if you're not at the staff meeting, you don't get to vote
+* rules are implemented by the next staff meeting (weekly)
+* new staff members are approved during staff meetings by those who are present
 
-Commitments:
-Paid Staff, Volunteers, Interns, Residents
 
-Resident program:
-WNK(?): residency served as model for Xinfab's resident program
-resident rules: 20% time or 1 day a week (flexible) in exchange for....?
-Need: contract or trust system?
-
-Exclusive Residency program 
-terms (allowance) are case-by-case
-
-New staff, volunteer, residents, interns are approved during staff meetings by those who are present. 
  
 
 
