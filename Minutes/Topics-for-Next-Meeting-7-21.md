@@ -1,6 +1,9 @@
 Topics to discuss at the next staff meeting (please edit and add to this list!)
 * membership fees and Xinchejian -- find a way to make this simpler?
 * also on membership -- how to aproach visitors about becoming a member
+* newsletter
+* Facebook page
+* weibo page
 
 *Berenda:*
 - [ ] find someone who can build our permanent website for us
