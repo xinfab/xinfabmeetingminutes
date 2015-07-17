@@ -63,21 +63,6 @@ It's for the company. Lucio puts a percentage of this service fee into Xinfab be
 * Need a system better than our paper system (memberships, machine hours)
   * Mark puts it all on Excel
 
-Lucio: "I'm not using XinFab to fund my own interests."
-
-Lucio is willing to pay for the space until the end of 2015. 
-
-Xinfab should not be a manufacturing company that builds products for other people. It's not a prototype house. We don't want Xinfab to move away from makers. - Lucio
-
-Mark: "We need to invest money in marketing people and finance people. We shouldn't be worried about our non-profit reputation.
-
-Question:
-confusing line between Xinchejian and Xinfab?
-
-Lucio – the last thing I want is for this place to be like a school
-
-July 6h – Lucio is leaving for a month. 
-
 ## Pricing at XinFab
 ### Membership
 * 180 RMB/month membership
@@ -114,16 +99,6 @@ If someone reserves a machine online and doesn't show up, they have to pay for t
 ### XinFab Hours
 * 1 - 9 PM
 * everyday except Monday and Friday
-
-Sean knows everything but CNC.
-Mark needs practice on CNC.
-
-
-Lucio wants to finish CNC by July 6th – this is also Laura's thesis so she needs to take ownership of it. 
-
-Something for Linnah & Sean?:
-investigate other business models
-
 
 ## XinFab Staff
 All staff (paid and unpaid) should be a maker. 
@@ -195,8 +170,26 @@ All staff (paid and unpaid) should be a maker.
 * rules are implemented by the next staff meeting (weekly)
 * new staff members are approved during staff meetings by those who are present
 
+## Other...
 
+Sean knows everything but CNC.
+Mark needs practice on CNC.
+
+Lucio wants to finish CNC by July 6th – this is also Laura's thesis so she needs to take ownership of it. 
  
+Lucio: "I'm not using XinFab to fund my own interests."
 
+Lucio is willing to pay for the space until the end of 2015. 
+
+Xinfab should not be a manufacturing company that builds products for other people. It's not a prototype house. We don't want Xinfab to move away from makers. - Lucio
+
+Mark: "We need to invest money in marketing people and finance people. We shouldn't be worried about our non-profit reputation.
+
+Question:
+confusing line between Xinchejian and Xinfab?
+
+Lucio – the last thing I want is for this place to be like a school
+
+July 6h – Lucio is leaving for a month. 
 
 
