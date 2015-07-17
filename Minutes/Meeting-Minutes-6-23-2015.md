@@ -172,24 +172,22 @@ All staff (paid and unpaid) should be a maker.
 
 ## Other...
 
-Sean knows everything but CNC.
-Mark needs practice on CNC.
+**Lucio:**
+* Lucio is leaving Shanghai on July 6th
+* Lucio wants to finish the CNC by July 6th – this is also Laura's thesis so she needs to take ownership of it. 
+* Lucio is willing to pay for the space until the end of 2015
 
-Lucio wants to finish CNC by July 6th – this is also Laura's thesis so she needs to take ownership of it. 
- 
-Lucio: "I'm not using XinFab to fund my own interests."
+"I'm not using XinFab to fund my own interests."
 
-Lucio is willing to pay for the space until the end of 2015. 
+"Xinfab should not be a manufacturing company that builds products for other people. It's not a prototype house. We don't want Xinfab to move away from makers."
 
-Xinfab should not be a manufacturing company that builds products for other people. It's not a prototype house. We don't want Xinfab to move away from makers. - Lucio
+"The last thing I want is for this place to be like a school."
 
-Mark: "We need to invest money in marketing people and finance people. We shouldn't be worried about our non-profit reputation.
+**Mark:**
+"We need to invest money in marketing people and finance people. We shouldn't be worried about our non-profit reputation.
 
-Question:
-confusing line between Xinchejian and Xinfab?
+**Existential question for XinFab**
+How will we define our relationship with Xinchejian? There's a confusing line between the two spaces.
 
-Lucio – the last thing I want is for this place to be like a school
-
-July 6h – Lucio is leaving for a month. 
 
 
