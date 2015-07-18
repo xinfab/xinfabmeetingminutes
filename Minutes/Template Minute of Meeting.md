@@ -1,7 +1,80 @@
-## Minutes of Meetings
+# This is a template for the minute of Meetings
 
-* [Meeting Minutes 2015/06/23](https://github.com/xinfab/Docs/blob/master/Minutes/Meeting-Minutes-6-23-2015.md)
-* [Meeting Minutes 2015/06/30](https://github.com/xinfab/Docs/blob/master/Minutes/Meeting-Minutes-6-30-2015.md)
-* [Meeting Minutes 2015/07/07](https://github.com/xinfab/Docs/blob/master/Minutes/Meeting-Minutes-7-07-2015.md)
-* [Meeting Minutes 2015/07/15](https://github.com/xinfab/Docs/blob/master/Minutes/Meeting-Minutes-7-15-2015.md)
-* [Topics for Next Meeting 2015/7/21](https://github.com/xinfab/Docs/blob/master/Minutes/Topics-for-Next-Meeting-7-21.md)
+
+<pre>
+Staff Meeting Notes 2015-xx-xx, xxpm
+Notes: xxxxx
+Meeting runner: xxxx
+Attendance: xxxx, xxxx, xxxx, xxxx, xxxx, xxxx
+Late:  xxxx, xxx
+Absents but expected: xxxx
+Observers: xxxx, xxxx
+</pre>
+
+### Action Items
+
+*Lucio:* @lpgn
+- [x] xxxx
+- [x] xxxxx
+- [x] xxxxxx
+- [x] xxxx
+
+*Berenda:*
+- [ ] ......
+
+*Mark:* @ScullyM
+- [ ] ............
+
+*Lemon
+- [ ] ............
+
+*Sean:*
+- [ ] .......
+
+*Linnah:*
+- [ ] ......
+
+*Lio:* @lionello
+- [ ] ...............
+
+*Eva* @evawxiao
+- [x] .....
+
+*Simona*
+- [ ] ............
+
+*Danny:* @Dannykuo
+- [ ] ....
+
+### Props
+
+* .....
+* .........
+* Staff applause for all of the above
+
+
+###STAFF ISSUES
+
+####Finances
+
+* Financial status: (link to the document at our wiki)
+
+
+####Topic 2
+
+* wecome new members 
+
+####Topic 3
+
+* updates .....
+
+###This week events
+
+* xxxxxxxxxxxx
+
+### Future Events
+
+####xxxxx Workshops
+
+* Given by: xxxxx
+* Date and time: 
