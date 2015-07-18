@@ -32,9 +32,9 @@ Topics to discuss at the next staff meeting (please edit and add to this list!)
 - [ ] create a payment system better than our paper system (memberships, machine hours)
 
 *Lucio:* @lpgn
-- [ ] send information on sponsorship
-- [ ] send email thread with the neighboring company's proposal 
-- [x] write safety waiver for safety workshops (sent)
+- [x] send information on [sponsorship] (https://github.com/xinfab/Docs/tree/master/Sponsorship)
+- [x] send email thread with the neighboring company's proposal 
+- [x] write safety waiver for safety workshops
 
 
 
