@@ -1,4 +1,4 @@
-**XinFab 新Fab and Xinchejian 新车间** 
+# **XinFab 新Fab and Xinchejian 新车间** 
 # **Liability Waiver**
 
 * As a FabLab and also a community of makers, 比特奥特姆（上海）印刷科技有限公司 （“XinFab 新Fab”）and 信彻坚电子科技（上海）有限公司 ("Xinchejian 新车间"), provides their facilities, equipment, classes, and activities with the intention of creating an environment that supports collaboration, creation, and community among its participants (“Makers”). To this end, XinFab 新Fab and XinCheJian 新车间 take reasonable precautions to maintain safety of their space and equipment but cannot guarantee the safety of the Makers at all times.
