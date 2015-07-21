@@ -38,7 +38,7 @@
 * they get 4,000 RMB worth of credit for machine use a sponsor logo and a key
 * they will pay 5,000 RMB
 
-## Neighborcompany (They proposed the bellow terms not accepeted):
+## Neighbor company (They proposed the below terms, not accepted):
 *900RMB for three seats in the space and 180 hours/month of usage of Lucio's office
 they want to renovate all the furniture?
 * standard fablab pricing practice: 5x price for companies (regular members vs. companies)
