@@ -5,7 +5,7 @@ Topics to discuss at the next staff meeting (please edit and add to this list!)
 * Facebook page
 * weibo page
 
-*Berenda:*
+*Miranda:*
 - [ ] find someone who can build our permanent website for us
   * ask Xinchejian people, contractors, and friends 
   
