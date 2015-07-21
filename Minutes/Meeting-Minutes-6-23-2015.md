@@ -1,5 +1,5 @@
 ## *ACTION ITEMS FROM MEETING*
-Attendees: Lemon, Sean, Brenda, Mark, Danny, Linnah, Lucio, Eva
+Attendees: Lemon, Sean, Miranda, Mark, Danny, Linnah, Lucio, Eva
 
 *Lucio:*
 * discuss payment with Lemon (become paid staff)
@@ -8,10 +8,10 @@ Attendees: Lemon, Sean, Brenda, Mark, Danny, Linnah, Lucio, Eva
 * build temporary website for XinFab
 
 *Eva:*
-* send website requirements to Danny and Berenda
+* send website requirements to Danny and Miranda
 * schedule staff workshops (Lucio is leaving JULY 6th!!!!)
 
-*Berenda:*
+*Miranda:*
 * find someone who can build our permanent website for us
   * ask Xinchejian people, contractors, and friends 
   
@@ -110,7 +110,7 @@ All staff (paid and unpaid) should be a maker.
 * Volunteer
   * Eva
   * Simona
-  * Berenda
+  * Miranda
   * Lemon
 * Intern
   * Mark
@@ -148,7 +148,7 @@ All staff (paid and unpaid) should be a maker.
 * Eva: 
   * 2 days a week, 4 hours evening hours
   * Long term: at least another year (until September 2016)
-* Berenda: 
+* Miranda: 
   * Tuesday & Wednesday in the evening
 * Sean: 
   * everyday the space is open, 1 – 9PM
