@@ -7,8 +7,8 @@
 * Install licensed media onto public computer
 * Delete unwanted software
 
-*Berenda & Lucio:*
-* call Berenda's friend 6/30 or 7/1 to assess whether or not he can make our website
+*Miranda & Lucio:*
+* call Miranda's friend 6/30 or 7/1 to assess whether or not he can make our website
 
 *Sean:*
 * research on Jing An government namecards so we can set up a meeting with them ASAP
@@ -53,7 +53,7 @@ Lucio wants Xinfab staff to feel ownership over the space. Once the farm-fablab 
 **Why**: Because they want the China fablab experience. Maybe they want to learn about Taobao, maybe they want to know more about Chinese culture. We would give them the China-fablab experience in exchange for their help in the fablab, plus a fee.
 
 ## XinFab Website
-* Berenda: friend is willing to do it for a small fee
+* Miranda: friend is willing to do it for a small fee
   * need to skype him, see what he's built before, make it clear what our requirements are
 * Xinchejian offered to help host the wiki stuff
   * free options as well – Wikia?
