@@ -19,7 +19,7 @@ Observers: xxxx, xxxx
 - [x] xxxxxx
 - [x] xxxx
 
-*Berenda:*
+*Miranda:*
 - [ ] ......
 
 *Mark:* @ScullyM
