@@ -24,11 +24,15 @@ Observers: None
 *Lemon & Sean:*
 - [ ] translate Mark's CNC instructions
 
+*Sean:*
+- [ ] try candle workshop, give time estimate for it
+
 *Unassigned:*
 - [ ] manage members (follow up, keep track of their membership, their machines)
 - [ ] create a payment system better than our paper system (memberships, machine hours)
 - [ ] Create event every 1 or 2 months, kind of networking event, but also keep everyone involved, maybe in combination with lucio’s returning, so every month? lucio’s welcome back party every month?!
-
+- [ ] define relationship with XCJ
+- [ ] contact Rockets from DFRobot to get a good spot at the Maker Carnival
 
 *Lucio:* @lpgn
 - [ ] give danny code for Facebook/weibo page
@@ -39,6 +43,8 @@ Observers: None
 
 *Eva:* @evawxiao
 - [ ] schedule meeting with Rock and Lucio and staff (4PM and after)
+- [x] sign XinFab up for a stand at the Shanghai Maker Carnival
+- [ ] organize a regular meetup to make something for the Maker Carnival
 
 *Danny:* @Dannykuo
 - [ ] weibo/facebook page
@@ -77,10 +83,30 @@ Observers: None
   * Sean should do this because he's a paid staff member - he already takes care of 3DHubs site
 * Suggestion by Danny: sponsorship for COCPlus in exchange for advertisement in space
 
-###This week events
+####Lucio's return
+* August 27 - September 6th
+* will create carbon fiber frames for 3D printer kits
+  * Lemon will need to separate kits
+* 3D printer workshop will have to be a Friday night - Saturday workshop
 
-* Laser cutter workshop with Laura and Eva
-  * 8/8 @ 14:00 - 16:00
+#### Relationship with Xinchejian
+* We do introductions of the space, not them
+* they pay us 1000 RMB/month to our bank account
+* we issue them a fapiao
+
+##### Safety Workshop
+* we need to do one - we promised Xinchejian
+* Danny made a safety guidelines sheet (on github)
+* everyone needs to sign the safety waiver 
+* We need to make it clear: WE ARE NOT TEACHING PEOPLE HOW TO USE MACHINES
+  * It is just a safety workshop about following safety procedures
+  * The techniques on how to operate the machines is not being taught. 
+
+### Shanghai Maker Carnival
+* October 17 - 18th
+* Eva to sign us up for a stand
+* Eva will organize the making of Something Awesome for our stand
+* need to contact Rockets from DFRobot to get a good spot
 
 ### Future Events
 
@@ -98,3 +124,7 @@ Observers: None
 * Date and time: 9/4, 9/5 time TBD
   * 3D printer making workshop
   * Given by: Lucio
+
+* Future:
+  * Sean to get back to us on a candle workshop
+  * Albert will do a Solidworks and CAM workshop in the future (not ready yet)
