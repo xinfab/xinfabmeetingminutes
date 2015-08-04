@@ -37,6 +37,8 @@ Observers: None
 *Lucio:* @lpgn
 - [ ] give danny code for Facebook/weibo page
 - [ ] Newsletter
+- [ ] create automatic script for website
+- [ ] pay Sean
 
 *Lio:* @lionello
 - [x] ask Sean to help him with intercom installation
@@ -53,12 +55,18 @@ Observers: None
 - [ ] follow up with brandnographer neighbor
 - [ ] create price proposal for COCPlus partnership
 
+*Linnah:*
+- [ ] meet with Lucio to go over report on 8/5 @4pm
+
 ###STAFF ISSUES
 
 ####Finances
 
 * Financial status: (link to the document at our wiki)
-
+* need to pay Sean
+* need to define status of Sean's employment
+* should we collect fapiao for that?
+* Linnah & Lucio to talk about report: 8/5 @4pm
 
 ####Our Neighbors, the Brandnographer
 
