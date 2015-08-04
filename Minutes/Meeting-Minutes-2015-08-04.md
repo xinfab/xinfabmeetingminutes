@@ -37,8 +37,8 @@ Observers: None
 *Lio:* @lionello
 - [x] ask Sean to help him with intercom installation
 
-*Eva & Simona:* @evawxiao
-- [ ] 
+*Eva:* @evawxiao
+- [ ] schedule meeting with Rock and Lucio and staff (4PM and after)
 
 *Danny:* @Dannykuo
 - [ ] weibo/facebook page
@@ -55,17 +55,33 @@ Observers: None
 
 ####Our Neighbors, the Brandnographer
 
-* we're disappointed with their proposal
+* We're disappointed with their proposal
 * Lucio does not want to put time into negotiation
 * Danny is willing to follow up with them
 
-####Topic 3
+####Partnership with App-Ark
 
-* updates .....
+* Terms of the old deal:
+  * 8 students max
+  * 5,000 RMB a month, 4.000 RMB of that is credit
+  * everyday 10AM - 2PM
+  * Rock teaches all the workshops - no assistance from us
+* Eva will arrange meeting with staff, Lucio, and Rock
 
+####Partnership with COCPlus
+* 3DHubs page
+* we will use COCPlus service but still charge 10 RMB/gram
+3Dhubs page
+advertise other printers? If it's just a service, 10 RMB/gram. Keep this price but with better quality. 
+Cost high considering quantity of sales?
+Someone needs to be in charge of taking orders and sending orders to COCPlus. Sean should do this because he's a paid staff member. He already takes care of 3DHubs site.
+Danny to make a proposal of prices. 
+
+Sponsorship for COCPlus in exchange for advertisement in space. - Danny
 ###This week events
 
-* xxxxxxxxxxxx
+* Laser cutter workshop with Laura and Eva
+  * 8/8 @ 14:00 - 16:00
 
 ### Future Events
 
@@ -74,15 +90,12 @@ Observers: None
 * Date and time: 8/9 at 14:00
   * Basic 3D printing Workshop where participants download models from online
   * Given by: Sean
-
 * Date and time: 8/22 at 14:00
   * Inkscape Workshop
   * Given by: Danny & Eva
-
 * Date and time: TBD (to-be-determined)
   * Drone making workshop
   * Given by: Lucio
-
 * Date and time: 9/4, 9/5 time TBD
   * 3D printer making workshop
   * Given by: Lucio
