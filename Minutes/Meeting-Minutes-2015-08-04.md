@@ -45,6 +45,7 @@ Observers: None
 - [ ] finish website
 - [x] look into safety workshop content
 - [ ] follow up with brandnographer neighbor
+- [ ] create price proposal for COCPlus partnership
 
 ###STAFF ISSUES
 
@@ -70,14 +71,12 @@ Observers: None
 
 ####Partnership with COCPlus
 * 3DHubs page
-* we will use COCPlus service but still charge 10 RMB/gram
-3Dhubs page
-advertise other printers? If it's just a service, 10 RMB/gram. Keep this price but with better quality. 
-Cost high considering quantity of sales?
-Someone needs to be in charge of taking orders and sending orders to COCPlus. Sean should do this because he's a paid staff member. He already takes care of 3DHubs site.
-Danny to make a proposal of prices. 
+* quality of resin prints is much higher
+* Danny to create price proposal for COCPlus partnership
+* Someone needs to be in charge of taking orders and sending orders to COCPlus
+  * Sean should do this because he's a paid staff member - he already takes care of 3DHubs site
+* Suggestion by Danny: sponsorship for COCPlus in exchange for advertisement in space
 
-Sponsorship for COCPlus in exchange for advertisement in space. - Danny
 ###This week events
 
 * Laser cutter workshop with Laura and Eva
