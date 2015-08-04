@@ -72,18 +72,18 @@ Observers: None
 
 ####xxxxx Workshops
 
-* Given by: Sean
 * Date and time: 8/9 at 14:00
-* Basic 3D printing Workshop where participants download models from online
+  * Basic 3D printing Workshop where participants download models from online
+  * Given by: Sean
 
-* Given by: Danny & Eva
 * Date and time: 8/22 at 14:00
-* Inkscape Workshop
+  * Inkscape Workshop
+  * Given by: Danny & Eva
 
-* Given by: Lucio
 * Date and time: TBD (to-be-determined)
-* Drone making workshop
+  * Drone making workshop
+  * Given by: Lucio
 
-* Given by: Lucio
 * Date and time: 9/4, 9/5 time TBD
-* 3D printer making workshop
+  * 3D printer making workshop
+  * Given by: Lucio
