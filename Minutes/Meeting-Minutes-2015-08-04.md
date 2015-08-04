@@ -9,45 +9,42 @@ Observers: None
 
 ### Action Items
 
-*Lucio:* @lpgn
-- [x] xxxx
-- [x] xxxxx
-- [x] xxxxxx
-- [x] xxxx
-
 *Miranda:*
-- [ ] ......
-
+- [ ] find someone who can build our permanent website for us
+  * ask Xinchejian people, contractors, and friends 
+  
 *Mark:* @ScullyM
-- [ ] ............
+- [ ] print out CNC instructions in English (within 2 weeks)
+- [ ] contact Spencer from Xinchejian
+  * Spencer is creating a wiki and is already writing instructions for the CNC
+- [ ] give danny info writing about the equipment for website
+- [ ] document safety features for equipment
+- [ ] write internship proposal
+ 
+*Lemon & Sean:*
+- [ ] translate Mark's CNC instructions
 
-*Lemon
-- [ ] ............
+*Unassigned:*
+- [ ] manage members (follow up, keep track of their membership, their machines)
+- [ ] create a payment system better than our paper system (memberships, machine hours)
+- [ ] Create event every 1 or 2 months, kind of networking event, but also keep everyone involved, maybe in combination with lucio’s returning, so every month? lucio’s welcome back party every month?!
 
-*Sean:*
-- [ ] .......
 
-*Linnah:*
-- [ ] ......
+*Lucio:* @lpgn
+- [ ] give danny code for Facebook/weibo page
+- [ ] Newsletter
 
 *Lio:* @lionello
-- [ ] ...............
+- [x] ask Sean to help him with intercom installation
 
-*Eva* @evawxiao
-- [x] .....
-
-*Simona*
-- [ ] ............
+*Eva & Simona:* @evawxiao
+- [ ] 
 
 *Danny:* @Dannykuo
-- [ ] ....
-
-### Props
-
-* .....
-* .........
-* Staff applause for all of the above
-
+- [ ] weibo/facebook page
+- [ ] finish website
+- [x] look into safety workshop content
+- [ ] follow up with brandnographer neighbor
 
 ###STAFF ISSUES
 
@@ -56,9 +53,11 @@ Observers: None
 * Financial status: (link to the document at our wiki)
 
 
-####Topic 2
+####Our Neighbors, the Brandnographer
 
-* wecome new members 
+* we're disappointed with their proposal
+* Lucio does not want to put time into negotiation
+* Danny is willing to follow up with them
 
 ####Topic 3
 
