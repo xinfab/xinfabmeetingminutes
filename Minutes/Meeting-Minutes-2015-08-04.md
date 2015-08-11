@@ -35,10 +35,10 @@ Observers: None
 - [ ] contact Rockets from DFRobot to get a good spot at the Maker Carnival
 
 *Lucio:* @lpgn
-- [ ] give danny code for Facebook/weibo page
+- [x] give danny code for Facebook/weibo page
 - [ ] Newsletter
 - [ ] create automatic script for website
-- [ ] pay Sean
+- [x] pay Sean
 
 *Lio:* @lionello
 - [x] ask Sean to help him with intercom installation
@@ -49,11 +49,11 @@ Observers: None
 - [ ] organize a regular meetup to make something for the Maker Carnival
 
 *Danny:* @Dannykuo
-- [ ] weibo/facebook page
+- [x] weibo/facebook page
 - [ ] finish website
 - [x] look into safety workshop content
-- [ ] follow up with brandnographer neighbor
-- [ ] create price proposal for COCPlus partnership
+- [x] follow up with brandnographer neighbor
+- [x] create price proposal for COCPlus partnership
 
 *Linnah:*
 - [ ] meet with Lucio to go over report on 8/5 @4pm
