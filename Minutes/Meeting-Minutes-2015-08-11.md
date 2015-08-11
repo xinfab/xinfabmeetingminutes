@@ -48,6 +48,7 @@ Observers: None
 *Eva:* @evawxiao
 - [ ] schedule meeting with Rock and Lucio and staff (4PM and after)
 - [x] sign XinFab up for a stand at the Shanghai Maker Carnival
+- [ ] talk to Simona & Lucio about meeting with Jing An official for sponsorship $$
 
 *Danny:* @Dannykuo
 - [x] weibo/facebook page
@@ -115,24 +116,36 @@ Observers: None
   * Who do we donate the profit to?
     * Sean's suggestion: we can pull the names of organizations (suggested by staff) out of a jar
 
+#### Relationship with Xinchejian
+
+* will make a poster with Ricky to differentiate the two spaces
+* will list prices
+* one-liner describing Xinfab, one-liner describing Xinchejian
+
 ### Future Events
 
-####xxxxx Workshops
+####Workshops
 
-* Date and time: 8/15 at 14:00
+* Date and time: 8/15 at 14:00 - 17:00
   * Basic 3D printing Workshop where participants download models from online
   * Given by: Sean
   * Cost: 150 RMB for members, 200 RMB for non-members. People pay for weight of printed products.
-* Date and time: 8/22 at 14:00
-  * Inkscape Workshop
+* Date and time: 8/16 at 14:00 - 16:00
+  * Candle making
+  * Given by: Sean
+  * Cost: 50 RMB
+* Date and time: 8/22 14:00 - 17:00
+  * Adobe Illustrator and laser cutter
   * Given by: Danny & Eva
-* Date and time: TBD (to-be-determined)
-  * Drone making workshop
-  * Given by: Lucio
+  * Cost: TBD
 * Date and time: 9/4, 9/5 time TBD
   * 3D printer making workshop
   * Given by: Lucio
+  
+##### Voting for Workshops?
+* Sean's suggestion: have wechat members vote for certain workshop through wechat!
 
-* Future:
-  * Sean to get back to us on a candle workshop
-  * Albert will do a Solidworks and CAM workshop in the future (not ready yet)
+#### Future
+* Flexbot workshop
+* Jing An official sponsorship?
+  * Eva to contact Simona & Lucio about this
