@@ -94,7 +94,6 @@ Observers: None
 ####Partnership with COCPlus
 * Update 3D printing price to 2/4/8, instead of 2/4/10
   * printing with resin is 10RMB/gram
-    * for every 10RMB, we pay 4.8RMB and make  5.2RMB
   * printing with PLA is 8RMB/gram
 
 
