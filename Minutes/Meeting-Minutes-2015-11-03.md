@@ -1,5 +1,5 @@
 <pre>
-Staff Meeting Notes 2015-10-27, 1830pm
+Staff Meeting Notes 2015-11-03, 1630pm
 Meeting runner: Eva
 Attendance: Sean, Danny, Eva, Solene
 </pre>
