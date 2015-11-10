@@ -39,20 +39,6 @@ Attendance: Sean, Danny, Eva, Solene
 
 ###STAFF ISSUES
 
-####Maxwell deal
-* Eva will meet with Maxwell
-* workshop with kids just needs to cost the cover of Maxwell & friend's class (private or public) 
-  * remaining amount of profit (if any) will be split between Xinfab and Max
-  
-####New Year's Resolutions:
-* Danny's stool/table workshop:
-  *problem, research, inspiration, 2D drawing, 3D drawing, 3D printing, evaluate design, prepare drawings for factory production, produce, get product.
-  * 4 – 5 workshops
-* Eva:
-  *another Processing & programming
-* Independent designer showcasing:
-  * free showcasing
-  * 25% commission from sales
-  * Goals: generate profit, build relationships for future workshops and memberships, makes our space look nicer/inspires beginners
+
 
 
