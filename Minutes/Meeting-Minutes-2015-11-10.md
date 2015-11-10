@@ -46,5 +46,18 @@ Attendance: Sean, Vineel, Eva
 ####Future Workshops
 * Danny's stool/table workshop
   * Vineel suggests that we call it a class and offer a certificate to recognize attendee achievement
-
+* Vineel's PCB Design workshop, November 28th
+  * 14:00 - 17:00
+  * 250 for members, 300 for non-members
+  * PCB design using EAGLE (to create own circuit) and then sending design to Taobao dealer
+  * In order of importance: Laptop with EAGLE installed, mouse, mousepad
+* Processing workshop, November 22nd
+  * 13:00 - 17:00 (tentative)
+  * 300 for members, 350 non-members
+  * laptop with Processing installed, laptop charger
+* November 16th is test Processing Workshop
+  * 6 - 9pm
+* December Workshops with Lucio
+  * Sean needs to prepare carbon kits for 3D printer workshop
+  * Need someone to make our CNC safer (carbon dust) OR outsource the cutting OR outsource the fixing of the CNC
 
