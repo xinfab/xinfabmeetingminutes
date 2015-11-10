@@ -22,6 +22,7 @@ Attendance: Sean, Vineel, Eva
 - [ ] create automatic script for website
 - [x] contact Minnie so Vineel gets a card
 - [ ] ******interview prospective intern and employee
+- [ ] give Eva information about December workshops so she can promote them
 
 *Eva:* @evawxiao
 - [ ] talk to Simona & Lucio about meeting with Jing An official for sponsorship $$
