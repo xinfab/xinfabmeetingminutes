@@ -39,6 +39,22 @@ Attendance: Sean, Vineel, Eva
 
 ###STAFF ISSUES
 
+####Finance
+* Income
+  * Cashbox
+    * 180 (Joel's membership)
+    * 150 (3D printing workshop)
+    * 300 (China Accelerator, Girl Scout event)
+  * Wechat
+    * 64 (3D Printing Machine Use)
+    * 150 (3D Printing Workshop)
+    * 300 (3D Printing Service)
+  * Alipay
+    * 180 (Membership)
+* Expense
+  * Cashbox
+    * 300 (ayi)
+    
 ####Maxwell deal
 * Eva will meet with Maxwell tomorrow to go over school's proposal (11/11)
   * Vineel makes suggestion, gross vs. net
