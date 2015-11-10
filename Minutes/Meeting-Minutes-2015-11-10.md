@@ -42,6 +42,9 @@ Attendance: Sean, Vineel, Eva
 ####Maxwell deal
 * Eva will meet with Maxwell tomorrow to go over school's proposal (11/11)
   * Vineel makes suggestion, gross vs. net
-  *
+ 
+####Future Workshops
+* Danny's stool/table workshop
+  * Vineel suggests that we call it a class and offer a certificate to recognize attendee achievement
 
 
