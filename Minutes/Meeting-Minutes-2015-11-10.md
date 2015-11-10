@@ -37,6 +37,7 @@ Attendance: Sean, Vineel, Eva
 *Vineel:* 
 - [ ] take a look at FabManager
 - [ ] get familiar with Processing
+- [ ] send PCB design workshop pictures to Eva
 
 ###STAFF ISSUES
 
