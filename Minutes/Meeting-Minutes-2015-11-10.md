@@ -39,6 +39,9 @@ Attendance: Sean, Vineel, Eva
 
 ###STAFF ISSUES
 
-
+####Maxwell deal
+* Eva will meet with Maxwell tomorrow to go over school's proposal (11/11)
+  * Vineel makes suggestion, gross vs. net
+  *
 
 
