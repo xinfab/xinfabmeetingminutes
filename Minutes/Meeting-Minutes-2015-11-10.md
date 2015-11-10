@@ -1,7 +1,7 @@
 <pre>
 Staff Meeting Notes 2015-11-03, 1630pm
 Meeting runner: Eva
-Attendance: Sean, Danny, Eva, Solene
+Attendance: Sean, Vineel, Eva
 </pre>
 
 ### Action Items
