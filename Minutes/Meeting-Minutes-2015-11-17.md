@@ -32,6 +32,8 @@ Observers: Lufeng
 - [x] get familiar with Processing
 
 *Danny:* @Dannykuo
+- [ ] * Danny's stool/table workshop:
+      *problem, research, inspiration, 2D drawing, 3D drawing, 3D printing, evaluate design, prepare drawings for factory production, produce, get product.
 - [ ] finish website
 - [ ] calculate costs of end-to-end stool/small table design workshop (from sketches to factory production)
 - [x] ask Universal people about lasercutter wechat post
