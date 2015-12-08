@@ -52,3 +52,5 @@ Observers: Lufeng
 * the Universal laser cutter will move to the lasercutter room
   * Lucio's office can become a quiet workspace 
 
+####General
+* Lucio: we should hold more community events (BBQs, parties)
