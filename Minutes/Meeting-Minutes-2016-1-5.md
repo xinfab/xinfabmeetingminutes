@@ -30,6 +30,8 @@ Observers: Lufeng, Constantine
 
 *Lufeng:*
 - [ ] send Eva an English and Chinese description for 1/16 Polish artist group event by 1/11 
+- [ ] send Eva pictures for wechat post
+- [ ] contact Chris about partnering with XCJ for 1/16 event
 
 ###WORKSHOPS
 - 1/16, 2~3:30PM, 200RMB with Lufeng
@@ -44,25 +46,30 @@ Observers: Lufeng, Constantine
 
 ####CLEANING AND REDESIGNING XINFAB
 
-#####What to do with all the bamboo?
+####What to do with all the bamboo?
 - ideally we would sell or give away the bamboo
   - Eva to contact Bamboo Bikes people about it
   - if they don't want it/don't have any ideas, we'll throw it away
 
-#####Where should we put all the new tools?
+####Where should we put all the new tools?
 - Lucio will tell Yuruky which tools belong in the machine room
   - one week to do this, otherwise Xinfab staff will decide where they go
 - everything else will go on the new shelves
 - Danny suggests that we have a new tool wall
   - Eva to ask the Architect about helping Danny redesign Xinfab
  
-#####Furniture
+####Furniture
 - Danny to contact “friends” about new tables
 - need to get rid of sofa in Lucio's office 
 
-open night for lasercutting 1/14 (recurring), 7-9pm
+###OTHER
+####Lasercutting Open Night
+- open night where Eva introduces lasercutting and cuts things for people
+  - Thursdays, 7 - 9PM, recurring
+  - starting next Thursday, 1/14
 
-
-Chaewon Yoo from TechNode wants private office hours to pitch
-Danny suggests we try it a few times
-need to come up with proposal – what does Xinfab get for letting them use our space
+####Partnership with TechNode
+- Chaewon Yoo from TechNode wants private office hours where startups come to Xinfab and pitch
+- Eva: should be on off hours, like mornings or Mondays and Fridays
+  - Danny suggests we try it a few times, then rediscuss
+- Chaewon need to come up with proposal – what does Xinfab get for letting them use our space?
