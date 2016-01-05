@@ -28,4 +28,41 @@ Observers: Lufeng, Constantine
       *problem, research, inspiration, 2D drawing, 3D drawing, 3D printing, evaluate design, prepare drawings for factory production, produce, get product.
 - [ ] calculate costs of end-to-end stool/small table design workshop (from sketches to factory production)
 
-###STAFF ISSUES
+*Lufeng:*
+- [ ] send Eva an English and Chinese description for 1/16 Polish artist group event by 1/11 
+
+###WORKSHOPS
+- 1/16, 2~3:30PM, 200RMB with Lufeng
+  - Polish artis group will teach 3D printing, present their work, and do face scans
+  - printed face scans will be ready 1/17
+  - Lufeng: want to involve autism initiative somehow, event could be recurring
+  - Lufeng to talk to Chris about working with XCJ on this event
+- 1/23, 2~3/4PM, 100 RMB with Eva
+  - cut Chinese New Year paper designs, make your own red envelope
+  - introduction to lasercutting
+- Danny's stool workshop will start after CNY
+
+####CLEANING AND REDESIGNING XINFAB
+
+#####What to do with all the bamboo?
+- ideally we would sell or give away the bamboo
+  - Eva to contact Bamboo Bikes people about it
+  - if they don't want it/don't have any ideas, we'll throw it away
+
+#####Where should we put all the new tools?
+- Lucio will tell Yuruky which tools belong in the machine room
+  - one week to do this, otherwise Xinfab staff will decide where they go
+- everything else will go on the new shelves
+- Danny suggests that we have a new tool wall
+  - Eva to ask the Architect about helping Danny redesign Xinfab
+ 
+#####Furniture
+- Danny to contact “friends” about new tables
+- need to get rid of sofa in Lucio's office 
+
+open night for lasercutting 1/14 (recurring), 7-9pm
+
+
+Chaewon Yoo from TechNode wants private office hours to pitch
+Danny suggests we try it a few times
+need to come up with proposal – what does Xinfab get for letting them use our space
