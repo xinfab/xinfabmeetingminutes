@@ -1,7 +1,7 @@
 <pre>
 Staff Meeting Notes 2016-3-02, 2000pm
 Meeting runner: Eva
-Attendance: Eva, Yuruky, Lucasz
+Attendance: Eva, Yuruky, Lukasz
 </pre>
 
 ###Action Items
@@ -45,8 +45,8 @@ Attendance: Eva, Yuruky, Lucasz
   - unknown number of ppl for this workshop, guy will reach out to Yuruky later
 - corporate teambuilding could be a great moneymaking opportunity
 - Danny: should follow up with other companies
-  - Lucasz to start researching what other corporate training programs inclulde
-  - Lucasz can reach out to companies that offer internships at his school
+  - Lukasz to start researching what other corporate training programs inclulde
+  - Lukasz can reach out to companies that offer internships at his school
 
 ##### Machine Room Tools Workshops
 - from Chris (XCJ)
