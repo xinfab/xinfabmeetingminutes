@@ -1,5 +1,5 @@
 <pre>
-Staff Meeting Notes 2016-3-02, 2000pm
+Staff Meeting Notes 2016-3-02, 1900pm
 Meeting runner: Eva
 Attendance: Eva, Yuruky, Lukasz
 </pre>
