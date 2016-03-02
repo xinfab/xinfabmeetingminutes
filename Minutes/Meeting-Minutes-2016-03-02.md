@@ -4,6 +4,9 @@ Meeting runner: Eva
 Attendance: Eva, Yuruky, Lucasz
 </pre>
 
+###Action Items
+[ ] Danny to contact Christelle about Bosch sponsorship
+
 ### Lucasz Internship
 
 community, sponsorship, fundraising, Tuesday Wednesday
@@ -21,7 +24,7 @@ community, sponsorship, fundraising, Tuesday Wednesday
 ##### Corporate training (Philip Design, unknown number of people, will talk to Yuruky later)
 - should follow up with other companies
 - Lucasz to start researching what other corporate training programs are about
-- 
+
 ##### Teaching Machine Room Tools  (Chris)
 - from Chris
 - 3 - 4 hours
