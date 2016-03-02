@@ -14,21 +14,31 @@ community, sponsorship, fundraising, Tuesday Wednesday
 
 ### Event/Workshop Opportunities
 
-#### Yuruky's friend, Inner Mongolia, kids (10 - 15), remotely video, 
+##### Yuruky's friend, Inner Mongolia, kids (10 - 15), remotely video
+- designing the course
+- they want it to "high-tech", Arduino
 
-#### Corporate training (Philip Design, unknown number of people, will talk to Yuruky later)
+##### Corporate training (Philip Design, unknown number of people, will talk to Yuruky later)
+- should follow up with other companies
+- Lucasz to start researching what other corporate training programs are about
+- 
+##### Teaching Machine Room Tools  (Chris)
+- from Chris
+- 3 - 4 hours
+- Chris wants us the project to teach users how to use machines 
+- Danny to talk to Chris to get a better idea of what the workshop's goal is 
 
-#### Teaching Machine Room Tools Usage (Chris)
-
-#### Beyond the Bund
+##### Beyond the Bund
 
 ###Yuruky Initiatives
 
-####Instant Making
+#####Instant Making
 - need to figure out what kind of materials are suitable or easy for participants to use
 
-####Office Hours
+#####Office Hours
 - Yuruky needs to know what resources we have
   - resources as in: skills, technical support, materials, machines
 - also need to know resources we can refer people to 
   - how much is a high quality 3D scanner?
+#####XinFab Maker Roundtable
+- Yuruky to contact Chris 
