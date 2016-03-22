@@ -29,3 +29,22 @@ Observer: Ken
 #####Lasercutting
   - will take place in Xinfab
   - Ken's team knows Illustrator, they can come prepared with designs, we just teach them how to use the machine
+
+####Transformation
+- Optimize the space for designers/long term makers/new residents
+  - more tables
+  - some permanent desk space for residents
+  - a showcase for products by makers (with contact info of maker, can be sold?)
+  - "clean" the space stylistically
+- More residents!!
+  - need permanent desk space for them
+- Lucio's office: quieter making space and storage
+- partnerships
+  - Artable = crowdfunding platform for designers and artists
+  - CNCreate wechat group
+  - MADNESS
+- new machines
+  - Overlord
+  - Raise 3D
+  - Rocket
+
