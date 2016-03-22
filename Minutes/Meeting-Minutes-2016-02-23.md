@@ -1,22 +1,31 @@
 <pre>
-Staff Meeting Notes 2016-2-23, 2000pm
+Staff Meeting Notes 2016-3-22, 2000pm
 Meeting runner: Eva
-Attendance: Eva, Danny, Yuruky
-Observer: Mini
+Attendance: Eva, Danny, Yuruky, Lucasz
+Observer: Ken
 </pre>
 
 ### Action Items
 
 
-####CLEANING AND REDESIGNING XINFAB
+####Workshops for AKQA (from Ken)
 
-###Tools in Lucio's Office
-- since Lucio's trip to Shanghai will be delayed, Yuruky can start moving donated tools from the office, using his own judgment
-- if there are too many tools in the machine room, we should return the old ones to XCJ
-- no one likes a cluttered tool room!
- 
-####Paying for Materials on Taobao
-- staff voted to set RMB 200 as an amount that Yuruky is free to spend at his discretion
-  - this will be used towards things like water, wood, etc.
-  - this is not cumulative, if Yuruky does not spend 200 RMB one week, it doesn't roll over
-  - for technical materials, it's better to ask Lucio or other Xinfab staff before buying, even if it's 200 RMB or less
+#####Drones
+- 10 people, 5 drones
+- (5 * 2200) + (5 * 250) = 12750 RMB
+- Tentatively: 4/8 at 3pm at their office
+
+####3D printing， 
+- May 6th
+- will be in Xinfab
+-intro class, covers Cura & basics of printing
+- not team-building, just education
+  - can split up into smaller groups
+
+####Arduino
+- need to find an instructor for this
+  - Rock
+
+###Lasercutting
+  - will take place in Xinfab
+  - Ken's team knows Illustrator, they can come prepared with designs, we just teach them how to use the machine
