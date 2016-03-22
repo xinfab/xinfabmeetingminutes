@@ -15,17 +15,17 @@ Observer: Ken
 - (5 * 2200) + (5 * 250) = 12750 RMB
 - Tentatively: 4/8 at 3pm at their office
 
-####3D printing， 
+#####3D printing， 
 - May 6th
 - will be in Xinfab
 -intro class, covers Cura & basics of printing
 - not team-building, just education
   - can split up into smaller groups
 
-####Arduino
+#####Arduino
 - need to find an instructor for this
   - Rock
 
-###Lasercutting
+#####Lasercutting
   - will take place in Xinfab
   - Ken's team knows Illustrator, they can come prepared with designs, we just teach them how to use the machine
