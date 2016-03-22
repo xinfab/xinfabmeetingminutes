@@ -6,7 +6,8 @@ Observer: Ken
 </pre>
 
 ### Action Items
-
+- card system for machine room
+- employee registration, salary
 
 ####Workshops for AKQA (from Ken)
 
