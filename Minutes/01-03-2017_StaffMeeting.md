@@ -1,4 +1,4 @@
-# STAFF MEETING [WED, 01.03.2017, 19h30 - Xintiandi Space]
+# STAFF MEETING [WED, 01.03.2017, 19h30 - Xinfab (DT)]
 
 
 <pre>
