@@ -7,11 +7,11 @@ Chair:
 Attendance: 
 </pre>
 
-#Agenda
+# Agenda
 
-##1. Updates & Feedback
+## 1. Updates & Feedback
 
-####Machine space
+#### Machine space
 
 - MMW asked us for a floor plan so they can consider us bringing the BIG machines (Again, this will depend on solving the contract first).
 - 2 screen printers at Xinfab already
@@ -20,20 +20,20 @@ Attendance:
 *Jade*: 
 - [ ] Once contract situation is solved, Jade will ask MMW for first floor plan so we can place the BIG machines.
 
-####Wall, logo, tool wall
+#### Wall, logo, tool wall
 
-####K11
+#### K11
 
-####International school proposal
+#### International school proposal
 
-##2. Worshops
+## 2. Worshops
 
-####Workshops feedback
+#### Workshops feedback
 - 11-03 Sketchup
 - 18-03 Illustrator + laser intro
 - 19-03 Screen printing
 
-####Upcoming
+#### Upcoming
 - 25-03 Cura
 - 01-04 Leather + laser
 - 08-04 Sketchup
@@ -43,17 +43,17 @@ Attendance:
 - 29+30-04 Ukulele
 
 
-##3. DT contract
+## 3. DT contract
 
 Revised version sent. Awaiting response from MMW/DT.
 
 
-##4. Membership & Staff New Rules 
+## 4. Membership & Staff New Rules 
 
 Final ok?
 
 
-##5.  Other outstanding issues
+## 5.  Other outstanding issues
 
 - Material pricing and buying logistics (plexi + others)
 - Screen printing service pricing and overall logistics
