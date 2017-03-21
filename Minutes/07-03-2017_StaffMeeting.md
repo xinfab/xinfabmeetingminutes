@@ -7,35 +7,35 @@ Chair: Jade
 Attendance: Jade, Lucio, Pamela, Tony, Aurelien
 </pre>
 
-#Agenda
+# Agenda
 
-##1. Updates & Feedback
+## 1. Updates & Feedback
 
-####Party Planning
+#### Party Planning
 
 - Planning postponed for the time being. Pending to solve DT contract situation first.
 
-####Machine space
+#### Machine space
 
 - MMW asked us for a floor plan so they can consider us bringing the machines (Again, this will depend on solving the contract first).
 
 *Jade*: 
 - [ ] Once contract situation is solved, Jade will ask MMW for first floor plan so we can place the machines.
 
-####Wall, logo, tool wall
+#### Wall, logo, tool wall
 
 - Also pending.
 
-####K11
+#### K11
 
 - Danny could not attend the staff meeting, so no updates on K11.
 
-####Opendesk opening party
+#### Opendesk opening party
 
 - Transportation for laser booked. Danny and Jade will take laser to Opendesk on Wed at 8pm. Lab closed on Thursday. Jade and Danny will bring back laser to Xinfab on Fri at noon. Friday: back to normal hours (members have been notified).
 - Danny could not attend the staff meeting, so no other updates on Opendesk party.
 
-##2. DT contract
+## 2. DT contract
 
 Lucio fed back to the group the results of the meeting with MMW: 
 - After negotiation, MMW kept two points they insist on: 1. minimum of 2 workshops/week as of April, and 2. Duration of contract until September, 2017.
@@ -48,21 +48,21 @@ Lucio fed back to the group the results of the meeting with MMW:
 - [x] Send the contract to MMW.
 
 
-##3. Membership & Staff New Rules 
+## 3. Membership & Staff New Rules 
 
 Everyone contributed to and added comments. Now we need to agree on a final version.
 
 *Lucio*:
 - [ ] Will read again the document on Google docs carefully and give final OK
 
-##4.  Workshop planning for March and April
+## 4.  Workshop planning for March and April
 
 March kept as planned. April as well, but there are still gaps we need to look at.
 
 *Everyone*:
 - [ ] Fill the gaps of April
 
-##5.  Other outstanding issues
+## 5.  Other outstanding issues
 
 - No other issues.
 
