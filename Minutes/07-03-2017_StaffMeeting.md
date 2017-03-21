@@ -45,7 +45,7 @@ Lucio fed back to the group the results of the meeting with MMW:
 
 *Jade*: 
 - [x] Will take the latest version of the original contract (not the new one sent by MMW) and change/include the points MMW insisted on.
-- [ ] Send the contract to MMW.
+- [x] Send the contract to MMW.
 
 
 ##3. Membership & Staff New Rules 
